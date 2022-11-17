@@ -1,0 +1,58 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "657288",
+      "name": "分期－出行月数",
+      "font_class": "chuxingyueshu",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "834842",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "1173185",
+      "name": "车巴巴-下拉框箭头1",
+      "font_class": "linecar105",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "3034307",
+      "name": "卡包",
+      "font_class": "qiabao",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "7455231",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "15933089",
+      "name": "支付宝",
+      "font_class": "zhifubao1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "29765924",
+      "name": "收付款管理",
+      "font_class": "shoufukuanguanli",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    }
+  ]
+}
